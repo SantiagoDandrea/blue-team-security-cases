@@ -1,12 +1,5 @@
 # Mini caso SOC 1 – Análisis de evento de seguridad
 
-## Descripción del caso
-
-Este repositorio documenta escenarios prácticos de análisis de seguridad desde una perspectiva Blue Team / SOC.  
-El objetivo es demostrar la lectura de logs, la correlación de eventos y la evaluación de impacto ante actividades sospechosas, utilizando entornos Linux y servicios reales.
-
----
-
 ## Identificación del ticket
 
 **ID:** SOC-2026-001  
